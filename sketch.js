@@ -34,8 +34,8 @@ function setup() {
 	rect2Sprite.shapeColor=color("red")
 
 
-	rect2Sprite=createSprite(500,615,20,100)
-	rect2Sprite.shapeColor=color("red")
+	rect3Sprite=createSprite(500,615,20,100)
+	rect3Sprite.shapeColor=color("red")
 
 
 	groundSprite=createSprite(width/2, height-35, width,10);
